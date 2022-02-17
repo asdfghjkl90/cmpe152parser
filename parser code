@@ -1,1 +1,3 @@
-WHILE FOR IF CASE
+<groupmates> ::= <Kelly> || <Khoa> || <An>
+<class> ::= <CMPE_152>
+<teacher> ::= <Robert_Nicholson>
